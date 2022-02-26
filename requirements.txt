@@ -3,3 +3,5 @@ numpy
 pandas
 pdfplumber
 streamlit==1.5.1
+Imblearn
+sklearn
